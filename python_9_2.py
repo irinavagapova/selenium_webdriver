@@ -17,7 +17,7 @@ def test(driver):
     table = driver.find_element_by_css_selector(".dataTable")
     rows = table.find_elements_by_css_selector("tr.row") # сколько строк
     for i in range(1, len(rows)+1):
-        print(i)
+
         table1 = driver.find_element_by_css_selector(".dataTable")
         table1.find_element_by_css_selector("tr:nth-child(" + str(i+1) + ") a").click() #строки в первой таблице
 
@@ -26,6 +26,8 @@ def test(driver):
         last_value = ''  # переменная для сравнения
         for r1 in rows1:
             cells1 = r1.find_elements_by_tag_name("td")
+            if len(cells1)<3:
+                continue
             sel = cells1[2].find_elements_by_tag_name("option")
             for s in sel:
                 if s.get_attribute('selected'):
@@ -35,7 +37,6 @@ def test(driver):
             print(name_zone, last_value)
             last_value = name_zone
 
-            
         driver.get("http://localhost/litecart/admin/?app=geo_zones&doc=geo_zones")
 
 
