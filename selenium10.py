@@ -7,6 +7,7 @@ from selenium.webdriver.support.color import Color
 def driver(request):
     #wd = webdriver.Firefox()
     wd = webdriver.Chrome()
+    #wd = webdriver.Ie()
     request.addfinalizer(wd.quit)
     return wd
 
