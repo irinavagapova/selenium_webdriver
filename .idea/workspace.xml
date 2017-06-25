@@ -44,22 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="python_9_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_9_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="selenium12.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="246">
               <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="63" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -71,8 +59,8 @@
       <file leaf-file-name="selenium11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="77" />
+            <state relative-caret-position="246">
+              <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="60" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -83,8 +71,8 @@
       <file leaf-file-name="selenium13.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+            <state relative-caret-position="275">
+              <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="38" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -92,11 +80,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium14.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selenium14.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="190">
               <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python_9_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_9_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="21" column="75" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium17.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -132,6 +144,7 @@
         <option value="$PROJECT_DIR$/selenium12.py" />
         <option value="$PROJECT_DIR$/selenium13.py" />
         <option value="$PROJECT_DIR$/selenium14.py" />
+        <option value="$PROJECT_DIR$/selenium17.py" />
       </list>
     </option>
   </component>
@@ -142,10 +155,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+    <option name="x" value="56" />
+    <option name="y" value="1" />
+    <option name="width" value="1317" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -194,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in selenium14.py">
+  <component name="RunManager" selected="Python tests.py.test in selenium17.py">
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,22 +354,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="py.test in selenium11.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="selenium" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/selenium11.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <configuration name="py.test in selenium12.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,6 +402,21 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/selenium14.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="py.test in selenium17.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="selenium" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/selenium17.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="selenium14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,19 +436,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in selenium11.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in selenium12.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in selenium13.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in selenium14.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.selenium14" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in selenium12.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in selenium13.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in selenium14.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.selenium14" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in selenium17.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in selenium14.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in selenium13.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.selenium14" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in selenium12.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in selenium11.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in selenium17.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in selenium14.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in selenium13.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.selenium14" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in selenium12.py" />
       </list>
     </recent_temporary>
   </component>
@@ -454,51 +466,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_selenium13_py - 2017.06.24 at 17h 40m 48s.xml">
-      <configuration name="py.test in selenium13.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 34m 57s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.21 at 23h 12m 16s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 35m 34s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.21 at 23h 16m 43s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 36m 45s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.21 at 23h 18m 33s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 38m 24s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.21 at 23h 19m 13s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 50m 55s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.24 at 16h 45m 04s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 52m 22s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.24 at 19h 02m 40s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 57m 26s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.24 at 19h 08m 01s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 18h 58m 27s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.24 at 19h 10m 38s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 19h 00m 14s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_selenium14_py - 2017.06.24 at 19h 13m 15s.xml">
-      <configuration name="py.test in selenium14.py" configurationId="tests" />
+    <history-entry file="py_test_in_selenium17_py - 2017.06.25 at 19h 08m 08s.xml">
+      <configuration name="py.test in selenium17.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="0" />
+    <frame x="56" y="1" width="1317" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24309815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24365872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39285713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39485627" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37797618" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4387292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -544,7 +556,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="113" />
+      <option name="time" value="123" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
@@ -555,16 +567,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/selenium12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -892,9 +894,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/selenium14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/selenium12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="246">
           <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="63" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -904,8 +916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_9_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="187">
+          <caret line="21" column="75" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="75" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -914,8 +926,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        <state relative-caret-position="275">
+          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="38" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -924,18 +936,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="77" />
+        <state relative-caret-position="246">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="60" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium14.py">
+    <entry file="file://$PROJECT_DIR$/selenium17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        <state relative-caret-position="333">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
